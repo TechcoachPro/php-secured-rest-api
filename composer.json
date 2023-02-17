@@ -1,7 +1,7 @@
 {
     "require": {
         "okta/jwt-verifier": "^0.4.0",
-        "firebase/php-jwt": "^5.2",
+        "firebase/php-jwt": "^6.0",
         "twig/twig": "^3.0"
     }
 }
